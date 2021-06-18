@@ -9,3 +9,5 @@ console.log(fruta.split('ana'))
 
 const nome2 = (a) => a + nome.split(" ")
 console.log(nome2("Sr. "))
+
+//ll
