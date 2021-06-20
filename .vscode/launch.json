@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\Curso web moderno\\Fundamentos\\string.js"
+            "program": "${workspaceFolder}\\Curso web moderno\\Fundamentos\\string.js"  
         }
     ]
 }
